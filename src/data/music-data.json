@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "Mastering Guitar",
+      "slug": "mastering-guitar",
+      "description": "A comprehensive course on mastering the guitar, covering techniques, scales, and popular songs.",
+      "price": 49.99,
+      "instructor": "John Smith",
+      "isFeatured": true,
+      "image": "https://example.com/images/mastering-guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Learn the basics of playing the piano, including reading sheet music and playing simple songs.",
+      "price": 29.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": false,
+      "image": "https://example.com/images/piano-for-beginners.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Violin Techniques",
+      "slug": "advanced-violin-techniques",
+      "description": "A deep dive into advanced violin techniques for experienced players.",
+      "price": 59.99,
+      "instructor": "Liam Brown",
+      "isFeatured": true,
+      "image": "https://example.com/images/advanced-violin-techniques.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Drumming Essentials",
+      "slug": "drumming-essentials",
+      "description": "Learn essential drumming techniques and rhythms, perfect for beginners and intermediate players.",
+      "price": 39.99,
+      "instructor": "Sophia Davis",
+      "isFeatured": false,
+      "image": "https://example.com/images/drumming-essentials.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Jazz Saxophone",
+      "slug": "jazz-saxophone",
+      "description": "Explore the world of jazz saxophone with lessons on improvisation, scales, and classic jazz pieces.",
+      "price": 54.99,
+      "instructor": "Michael Wilson",
+      "isFeatured": true,
+      "image": "https://example.com/images/jazz-saxophone.jpg"
+    }
+  ]
+  
