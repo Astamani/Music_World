@@ -1,4 +1,5 @@
-[
+{
+  "courses":[
     {
       "id": 1,
       "title": "Mastering Guitar",
@@ -10,6 +11,36 @@
       "image": "https://example.com/images/mastering-guitar.jpg"
     },
     {
+      "id": 1,
+      "title": "Mastering Guitar",
+      "slug": "mastering-guitar",
+      "description": "A comprehensive course on mastering the guitar, covering techniques, scales, and popular songs.",
+      "price": 49.99,
+      "instructor": "John Smith",
+      "isFeatured": true,
+      "image": "https://example.com/images/mastering-guitar.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Mastering Guitar",
+      "slug": "mastering-guitar",
+      "description": "A comprehensive course on mastering the guitar, covering techniques, scales, and popular songs.",
+      "price": 49.99,
+      "instructor": "John Smith",
+      "isFeatured": true,
+      "image": "https://example.com/images/mastering-guitar.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Mastering Guitar",
+      "slug": "mastering-guitar",
+      "description": "A comprehensive course on mastering the guitar, covering techniques, scales, and popular songs.",
+      "price": 49.99,
+      "instructor": "John Smith",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3VpdGFyfGVufDB8fDB8fHww"
+    },
+    {
       "id": 2,
       "title": "Piano for Beginners",
       "slug": "piano-for-beginners",
@@ -17,7 +48,7 @@
       "price": 29.99,
       "instructor": "Emily Johnson",
       "isFeatured": false,
-      "image": "https://example.com/images/piano-for-beginners.jpg"
+      "image": "https://media.istockphoto.com/id/1206696670/photo/old-womans-hands-playing-the-piano.webp?b=1&s=170667a&w=0&k=20&c=-pB3SGI5CHne5ctcCsdSEiKrfZ3DoJHZOIbh6Zts5hc="
     },
     {
       "id": 3,
@@ -27,7 +58,7 @@
       "price": 59.99,
       "instructor": "Liam Brown",
       "isFeatured": true,
-      "image": "https://example.com/images/advanced-violin-techniques.jpg"
+      "image": "https://images.unsplash.com/photo-1484972759836-b93f9ef2b293?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dmlvbGlufGVufDB8fDB8fHww"
     },
     {
       "id": 4,
@@ -37,7 +68,7 @@
       "price": 39.99,
       "instructor": "Sophia Davis",
       "isFeatured": false,
-      "image": "https://example.com/images/drumming-essentials.jpg"
+      "image": "https://images.unsplash.com/photo-1484972759836-b93f9ef2b293?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dmlvbGlufGVufDB8fDB8fHww"
     },
     {
       "id": 5,
@@ -47,7 +78,7 @@
       "price": 54.99,
       "instructor": "Michael Wilson",
       "isFeatured": true,
-      "image": "https://example.com/images/jazz-saxophone.jpg"
+      "image": "https://images.unsplash.com/photo-1528143358888-6d3c7f67bd5d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8SmF6eiUyMFNheG9waG9uZXxlbnwwfHwwfHx8MA%3D%3D"
     }
   ]
-  
+  }
