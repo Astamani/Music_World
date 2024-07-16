@@ -11,7 +11,7 @@
       "image": "https://example.com/images/mastering-guitar.jpg"
     },
     {
-      "id": 1,
+      "id": 2,
       "title": "Mastering Guitar",
       "slug": "mastering-guitar",
       "description": "A comprehensive course on mastering the guitar, covering techniques, scales, and popular songs.",
@@ -21,7 +21,7 @@
       "image": "https://example.com/images/mastering-guitar.jpg"
     },
     {
-      "id": 1,
+      "id": 3,
       "title": "Mastering Guitar",
       "slug": "mastering-guitar",
       "description": "A comprehensive course on mastering the guitar, covering techniques, scales, and popular songs.",
@@ -31,7 +31,7 @@
       "image": "https://example.com/images/mastering-guitar.jpg"
     },
     {
-      "id": 1,
+      "id": 4,
       "title": "Mastering Guitar",
       "slug": "mastering-guitar",
       "description": "A comprehensive course on mastering the guitar, covering techniques, scales, and popular songs.",
@@ -41,7 +41,7 @@
       "image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3VpdGFyfGVufDB8fDB8fHww"
     },
     {
-      "id": 2,
+      "id": 5,
       "title": "Piano for Beginners",
       "slug": "piano-for-beginners",
       "description": "Learn the basics of playing the piano, including reading sheet music and playing simple songs.",
@@ -51,7 +51,7 @@
       "image": "https://media.istockphoto.com/id/1206696670/photo/old-womans-hands-playing-the-piano.webp?b=1&s=170667a&w=0&k=20&c=-pB3SGI5CHne5ctcCsdSEiKrfZ3DoJHZOIbh6Zts5hc="
     },
     {
-      "id": 3,
+      "id": 6,
       "title": "Advanced Violin Techniques",
       "slug": "advanced-violin-techniques",
       "description": "A deep dive into advanced violin techniques for experienced players.",
@@ -61,7 +61,7 @@
       "image": "https://images.unsplash.com/photo-1484972759836-b93f9ef2b293?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dmlvbGlufGVufDB8fDB8fHww"
     },
     {
-      "id": 4,
+      "id": 7,
       "title": "Drumming Essentials",
       "slug": "drumming-essentials",
       "description": "Learn essential drumming techniques and rhythms, perfect for beginners and intermediate players.",
@@ -71,7 +71,7 @@
       "image": "https://images.unsplash.com/photo-1484972759836-b93f9ef2b293?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dmlvbGlufGVufDB8fDB8fHww"
     },
     {
-      "id": 5,
+      "id": 8,
       "title": "Jazz Saxophone",
       "slug": "jazz-saxophone",
       "description": "Explore the world of jazz saxophone with lessons on improvisation, scales, and classic jazz pieces.",
