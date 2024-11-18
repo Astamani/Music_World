@@ -41,7 +41,7 @@ const musicData = [
 const WhytoChoose = () => {
     return (
         <div>
-            <StickyScroll content={musicData} />
+            <StickyScroll content={musicData}  />
         </div>
     )
 }

@@ -1,11 +1,11 @@
-import { FeaturedSection } from "@/components/FeaturedSection";
-import HeroSection from "@/components/HeroSection";
-import WhytoChoose from "@/components/WhytoChoose";
-import { MusicTestimonalCards } from "@/components/Testimonalcard";
-import { UpComingWebinar } from "@/components/UpComingWebinar";
+import { FeaturedSection } from "./courses/components/FeaturedSection";
+import HeroSection from "./courses/components/HeroSection";
+import WhytoChoose from "./courses/components/WhytoChoose";
+import { MusicTestimonalCards } from "./courses/components/Testimonalcard";
+import { UpComingWebinar } from "./courses/components/UpComingWebinar";
 import Image from "next/image";
-import { MeetOurInstructors } from "@/components/MeetOurInstructors";
-import { Footer } from "@/components/Footer";
+import { MeetOurInstructors } from "./courses/components/MeetOurInstructors";
+import { Footer } from "./courses/components/Footer";
 
 export default function Home() {
   return (

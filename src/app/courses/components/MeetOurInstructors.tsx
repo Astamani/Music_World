@@ -9,12 +9,7 @@ const indiaSingers = [
     designation: "Music Composer, Singer, Songwriter",
     image: "https://images.unsplash.com/photo-1570158268183-d296b2892211?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVuJTIwcGhvdG9zfGVufDB8fDB8fHww", // Replace with actual image URL
   },
-  {
-    id: 2,
-    name: "Lata Mangeshkar",
-    designation: "Playback Singer",
-    image: "https://unsplash.com/photos/nannie-helen-burroughs-smVelgdWtJo", // Replace with actual image URL
-  },
+  
   {
     id: 3,
     name: "Kishore Kumar",
